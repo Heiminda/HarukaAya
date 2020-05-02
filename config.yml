@@ -1,0 +1,21 @@
+##############################
+is_example_config_or_not: "not_sample_anymore"
+##############################
+bot_token: "1154912842:AAEjEhqhmlWmb95hFTT-q0BF156Oz2jOLok"
+owner_id: 450377297
+owner_username: "VivKL"
+database_url: "mongodb+srv://vivu:kx313@clusterv-lh4qh.mongodb.net/test?retryWrites=true&w=majority"
+message_dump: "-1001411533046"
+load: []
+no_load: []
+strict_antispam: False
+workers: 4
+allow_excl: False
+deepfry_token: None
+del_cmds: False
+sw_api: ''
+
+# Permission
+sudo_users: []
+support_users: []
+whitelist_users: []
